@@ -7,3 +7,7 @@ In this commit I have tested out headings in markdown.
 ```javascript
 var myVar = "Hello, world!";\
 ```
+
+Adding a task list
+- [x] Introduce myself to the world
+- [ ] Complete this module
